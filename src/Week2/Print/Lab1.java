@@ -13,9 +13,9 @@ public class Lab1 {
 
         System.Out.println("This is my third message")
 
-        System.println("This is another message")
+        System.println("This is my fourth message")
 
-          System.printLn("This is another message with error"
+          System.printLn("This is my fifth message")
 }
 
 
